@@ -1,7 +1,7 @@
 mainproject
 ===========
 
-Hiperwalk
+Hiperwalk - http://qubit.lncc.br/qwalk/
 
 High Performance Quantum Walk Simulation
 
